@@ -16,16 +16,20 @@
 
 .center {
     max-width: 1100px;
-    margin: 2.33% auto;
+    margin: 1.21% auto;
 }
 
 ul {
     list-style-type: none;
-    margin: 4px auto;
+    /*margin: 4px auto;*/
     padding: 10px;
     text-align: center;
 }
 
 li {
     display: inline-block;
+}
+
+.container {
+    float: left;
 }
